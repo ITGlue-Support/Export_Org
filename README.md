@@ -9,4 +9,6 @@ With:
 
 <img width="886" height="71" alt="image" src="https://github.com/user-attachments/assets/afa88f6e-a20a-436c-b00d-3523ed698d91" />
 
+How to user Windows Task Scheduler
 
+https://learn.microsoft.com/en-us/windows/win32/taskschd/task-scheduler-start-page
